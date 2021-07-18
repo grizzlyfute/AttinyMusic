@@ -17,7 +17,7 @@ Button use internal pullup.
 Do 'make' for compilation
 Do 'make upload' to upload throught your avrdude (arduino) programmer
 
-# Available title
+# Available titles
 - Age of empire I
 - Age of empire II
 - Age of empire II (2)
