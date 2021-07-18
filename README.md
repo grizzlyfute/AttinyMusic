@@ -9,7 +9,7 @@ If you want 440 Hz, just change the note table.
 
 # Schematic and doc
 See doc repository.
-Use atmel atmega85+ datasheet
+Use atmel attiny85+ datasheet
 
 Button use internal pullup.
 
